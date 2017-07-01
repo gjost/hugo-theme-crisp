@@ -1,18 +1,18 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/spf13/hugoThemes#themetoml for an example
 
-name = "Crisp"
+name = "@tuneslee"
 license = "MIT"
 licenselink = "https://github.com/Zenithar/hugo-theme-crisp/blob/master/LICENSE.md"
 description = "Ghost crisp theme ported to Hugo"
-homepage = "https://blog.zenithar.org/"
+homepage = "https://tuneslee.cafejosti.net/"
 tags = ["ghost", "minimal"]
 features = ["", ""]
 min_version = 0.14
 
 [author]
-  name = "Thibault NORMAND"
-  homepage = "http://zenithar.org"
+  name = "Una Lee Jost"
+  homepage = "http://tuneslee.cafejosti.net"
 
 # If porting an existing theme
 [original]
